@@ -14,19 +14,27 @@
     "APP_ID": {
       "description": "حط الايبي ايدي حبي", 
       "value": ""
+      "required": true
     },
     "API_HASH": {
       "description": "حط الايبي هاش حب",
       "value": ""
+      "required": true
     },
     "TERMUX": {
       "description": "حط هنا كود الجلسة",
       "value": "",
-      "required": false
+      "required": true
+    },
+    "BOT_USERNAME": {
+      "description": "حط هنا كود الجلسة",
+      "value": "",
+      "required": true
     },
     "TOKEN": {
       "description": "حط توكن بوتك ",
       "value": ""
+      "required": true
     }
   },
   "addons": [{
