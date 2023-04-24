@@ -13,12 +13,12 @@
   "env": {
     "APP_ID": {
       "description": "حط الايبي ايدي حبي", 
-      "value": ""
+      "value": "", 
       "required": true
     },
     "API_HASH": {
       "description": "حط الايبي هاش حب",
-      "value": ""
+      "value": "", 
       "required": true
     },
     "TERMUX": {
@@ -26,14 +26,14 @@
       "value": "",
       "required": true
     },
-    "BOT_USERNAME": {
+    "TOKEN": {
       "description": "حط هنا كود الجلسة",
       "value": "",
       "required": true
     },
-    "TOKEN": {
+    "BOT_USERNAME": {
       "description": "حط توكن بوتك ",
-      "value": ""
+      "value": "", 
       "required": true
     }
   },
